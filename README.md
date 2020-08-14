@@ -1,4 +1,4 @@
-#Platzigram
+# Platzigram
 
 ## Project of Platzi Djgango course
 [Platzi Django Course](https://platzi.com/cursos/django/)
