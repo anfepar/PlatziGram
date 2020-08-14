@@ -1,6 +1,6 @@
 # Platzigram
 
-## Project of Platzi Djgango course
+## Project of Platzi Django course
 [Platzi Django Course](https://platzi.com/cursos/django/)
 
 ## Dependencies
